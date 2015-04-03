@@ -3,10 +3,10 @@
 /_source/
 .project
 .pydevproject
-cache/
-couchpotato.db
-couchpotato.db-shm
-couchpotato.db-wal
-custom_plugins/
-logs/
-settings.conf
+/cache
+/couchpotato.db*
+/logs/*
+/db_backup
+/database/*
+/custom_plugins/*
+/settings.conf
