@@ -1,5 +1,6 @@
 *.pyc
 /data/
+/_env/
 /_source/
 .project
 .pydevproject
@@ -10,3 +11,5 @@
 /database/*
 /custom_plugins/*
 /settings.conf
+node_modules
+.tmp
